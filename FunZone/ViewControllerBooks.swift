@@ -48,7 +48,7 @@ class ViewControllerBooks: UIViewController {
     }
     */
     func viewDidLoad_InstantiateBooks() {
-        bookArr.append(Book.init(name: "His Fortunate Grace", author: "Gertrude Atherton"))
+        //bookArr.append(Book.init(name: "His Fortunate Grace", author: "Gertrude Atherton"))
         bookArr.append(Book.init(name: "The Lone Wolf", author: "Louis J Vance"))
         bookArr.append(Book.init(name: "The Incredible Invasion", author: "George O. Smith"))
         bookArr.append(Book.init(name: "The daily life of G and R", author: "Helen McClees"))

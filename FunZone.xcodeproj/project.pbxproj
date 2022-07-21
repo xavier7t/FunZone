@@ -22,13 +22,19 @@
 		25132A5B284E5D6500953DAB /* TableViewCellBooks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25132A5A284E5D6500953DAB /* TableViewCellBooks.swift */; };
 		255885C0284C8B3700BA903F /* Note+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 255885BE284C8B3700BA903F /* Note+CoreDataClass.swift */; };
 		255885C1284C8B3700BA903F /* Note+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 255885BF284C8B3700BA903F /* Note+CoreDataProperties.swift */; };
-		2595CFC7284C56E800E2C9AA /* Kathie's Soldiers.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 2595CFBF284C56E600E2C9AA /* Kathie's Soldiers.pdf */; };
-		2595CFC8284C56E800E2C9AA /* The Return of the Native.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 2595CFC0284C56E700E2C9AA /* The Return of the Native.pdf */; };
-		2595CFC9284C56E800E2C9AA /* The daily life of G and R.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 2595CFC1284C56E700E2C9AA /* The daily life of G and R.pdf */; };
-		2595CFCA284C56E800E2C9AA /* The Black Eagle.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 2595CFC2284C56E700E2C9AA /* The Black Eagle.pdf */; };
-		2595CFCB284C56E800E2C9AA /* The Second Boys' Book of Model Aeroplanes.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 2595CFC3284C56E700E2C9AA /* The Second Boys' Book of Model Aeroplanes.pdf */; };
-		2595CFCC284C56E800E2C9AA /* The Incredible Invasion.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 2595CFC4284C56E800E2C9AA /* The Incredible Invasion.pdf */; };
-		2595CFCD284C56E800E2C9AA /* The Lone Wolf.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 2595CFC5284C56E800E2C9AA /* The Lone Wolf.pdf */; };
+		2563E71E287CD67F00C638F4 /* Kathie's Soldiers.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 2563E717287CD67E00C638F4 /* Kathie's Soldiers.pdf */; };
+		2563E71F287CD67F00C638F4 /* The Second Boys' Book of Model Aeroplanes.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 2563E718287CD67F00C638F4 /* The Second Boys' Book of Model Aeroplanes.pdf */; };
+		2563E720287CD67F00C638F4 /* The Black Eagle.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 2563E719287CD67F00C638F4 /* The Black Eagle.pdf */; };
+		2563E721287CD67F00C638F4 /* The Lone Wolf.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 2563E71A287CD67F00C638F4 /* The Lone Wolf.pdf */; };
+		2563E722287CD67F00C638F4 /* The Return of the Native.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 2563E71B287CD67F00C638F4 /* The Return of the Native.pdf */; };
+		2563E723287CD67F00C638F4 /* The daily life of G and R.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 2563E71C287CD67F00C638F4 /* The daily life of G and R.pdf */; };
+		2563E724287CD67F00C638F4 /* The Incredible Invasion.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 2563E71D287CD67F00C638F4 /* The Incredible Invasion.pdf */; };
+		2563E72B287CD7C300C638F4 /* Autoreverse.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2563E725287CD7C200C638F4 /* Autoreverse.mp3 */; };
+		2563E72C287CD7C300C638F4 /* Wildblood.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2563E726287CD7C300C638F4 /* Wildblood.mp3 */; };
+		2563E72D287CD7C300C638F4 /* Don't Forget.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2563E727287CD7C300C638F4 /* Don't Forget.mp3 */; };
+		2563E72E287CD7C300C638F4 /* Gravity.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2563E728287CD7C300C638F4 /* Gravity.mp3 */; };
+		2563E72F287CD7C300C638F4 /* Afterlight.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2563E729287CD7C300C638F4 /* Afterlight.mp3 */; };
+		2563E730287CD7C300C638F4 /* World On Fire.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2563E72A287CD7C300C638F4 /* World On Fire.mp3 */; };
 		25E4C5762849C21E00EE3C75 /* DBHelperNotes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25E4C5752849C21E00EE3C75 /* DBHelperNotes.swift */; };
 		25E4C5782849CAA400EE3C75 /* ViewControllerNotesCompose.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25E4C5772849CAA400EE3C75 /* ViewControllerNotesCompose.swift */; };
 		25E4C57A2849D6AD00EE3C75 /* ViewControllerNotes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25E4C5792849D6AD00EE3C75 /* ViewControllerNotes.swift */; };
@@ -36,16 +42,9 @@
 		25E4C57E2849EE9000EE3C75 /* ViewControllerMusic.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25E4C57D2849EE9000EE3C75 /* ViewControllerMusic.swift */; };
 		25E4C5802849EEA100EE3C75 /* TableViewCellMusic.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25E4C57F2849EEA100EE3C75 /* TableViewCellMusic.swift */; };
 		25E4C5822849EEB200EE3C75 /* ViewControllerMusicPlayback.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25E4C5812849EEB200EE3C75 /* ViewControllerMusicPlayback.swift */; };
-		25E4C596284A2E4500EE3C75 /* Don't Forget.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 25E4C590284A2E4400EE3C75 /* Don't Forget.mp3 */; };
-		25E4C597284A2E4500EE3C75 /* Autoreverse.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 25E4C591284A2E4400EE3C75 /* Autoreverse.mp3 */; };
-		25E4C598284A2E4500EE3C75 /* Gravity.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 25E4C592284A2E4500EE3C75 /* Gravity.mp3 */; };
-		25E4C599284A2E4500EE3C75 /* Wildblood.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 25E4C593284A2E4500EE3C75 /* Wildblood.mp3 */; };
-		25E4C59A284A2E4500EE3C75 /* World On Fire.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 25E4C594284A2E4500EE3C75 /* World On Fire.mp3 */; };
-		25E4C59B284A2E4500EE3C75 /* Afterlight.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 25E4C595284A2E4500EE3C75 /* Afterlight.mp3 */; };
 		25E4C59E284A444A00EE3C75 /* ViewControllerBooks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25E4C59D284A444A00EE3C75 /* ViewControllerBooks.swift */; };
 		25E4C5A0284A455900EE3C75 /* CollectionViewCellBooks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25E4C59F284A455900EE3C75 /* CollectionViewCellBooks.swift */; };
 		25E4C5A2284A479E00EE3C75 /* ViewControllerBooksPreview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25E4C5A1284A479E00EE3C75 /* ViewControllerBooksPreview.swift */; };
-		25E4C5A4284A47E300EE3C75 /* His Fortunate Grace.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 25E4C5A3284A47E300EE3C75 /* His Fortunate Grace.pdf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -66,13 +65,19 @@
 		25132A5A284E5D6500953DAB /* TableViewCellBooks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCellBooks.swift; sourceTree = "<group>"; };
 		255885BE284C8B3700BA903F /* Note+CoreDataClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Note+CoreDataClass.swift"; sourceTree = "<group>"; };
 		255885BF284C8B3700BA903F /* Note+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Note+CoreDataProperties.swift"; sourceTree = "<group>"; };
-		2595CFBF284C56E600E2C9AA /* Kathie's Soldiers.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Kathie's Soldiers.pdf"; sourceTree = "<group>"; };
-		2595CFC0284C56E700E2C9AA /* The Return of the Native.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "The Return of the Native.pdf"; sourceTree = "<group>"; };
-		2595CFC1284C56E700E2C9AA /* The daily life of G and R.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "The daily life of G and R.pdf"; sourceTree = "<group>"; };
-		2595CFC2284C56E700E2C9AA /* The Black Eagle.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "The Black Eagle.pdf"; sourceTree = "<group>"; };
-		2595CFC3284C56E700E2C9AA /* The Second Boys' Book of Model Aeroplanes.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "The Second Boys' Book of Model Aeroplanes.pdf"; sourceTree = "<group>"; };
-		2595CFC4284C56E800E2C9AA /* The Incredible Invasion.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "The Incredible Invasion.pdf"; sourceTree = "<group>"; };
-		2595CFC5284C56E800E2C9AA /* The Lone Wolf.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "The Lone Wolf.pdf"; sourceTree = "<group>"; };
+		2563E717287CD67E00C638F4 /* Kathie's Soldiers.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Kathie's Soldiers.pdf"; sourceTree = "<group>"; };
+		2563E718287CD67F00C638F4 /* The Second Boys' Book of Model Aeroplanes.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "The Second Boys' Book of Model Aeroplanes.pdf"; sourceTree = "<group>"; };
+		2563E719287CD67F00C638F4 /* The Black Eagle.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "The Black Eagle.pdf"; sourceTree = "<group>"; };
+		2563E71A287CD67F00C638F4 /* The Lone Wolf.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "The Lone Wolf.pdf"; sourceTree = "<group>"; };
+		2563E71B287CD67F00C638F4 /* The Return of the Native.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "The Return of the Native.pdf"; sourceTree = "<group>"; };
+		2563E71C287CD67F00C638F4 /* The daily life of G and R.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "The daily life of G and R.pdf"; sourceTree = "<group>"; };
+		2563E71D287CD67F00C638F4 /* The Incredible Invasion.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "The Incredible Invasion.pdf"; sourceTree = "<group>"; };
+		2563E725287CD7C200C638F4 /* Autoreverse.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Autoreverse.mp3; sourceTree = "<group>"; };
+		2563E726287CD7C300C638F4 /* Wildblood.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wildblood.mp3; sourceTree = "<group>"; };
+		2563E727287CD7C300C638F4 /* Don't Forget.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Don't Forget.mp3"; sourceTree = "<group>"; };
+		2563E728287CD7C300C638F4 /* Gravity.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Gravity.mp3; sourceTree = "<group>"; };
+		2563E729287CD7C300C638F4 /* Afterlight.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Afterlight.mp3; sourceTree = "<group>"; };
+		2563E72A287CD7C300C638F4 /* World On Fire.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "World On Fire.mp3"; sourceTree = "<group>"; };
 		25E4C5752849C21E00EE3C75 /* DBHelperNotes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DBHelperNotes.swift; sourceTree = "<group>"; };
 		25E4C5772849CAA400EE3C75 /* ViewControllerNotesCompose.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerNotesCompose.swift; sourceTree = "<group>"; };
 		25E4C5792849D6AD00EE3C75 /* ViewControllerNotes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerNotes.swift; sourceTree = "<group>"; };
@@ -80,16 +85,9 @@
 		25E4C57D2849EE9000EE3C75 /* ViewControllerMusic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerMusic.swift; sourceTree = "<group>"; };
 		25E4C57F2849EEA100EE3C75 /* TableViewCellMusic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCellMusic.swift; sourceTree = "<group>"; };
 		25E4C5812849EEB200EE3C75 /* ViewControllerMusicPlayback.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerMusicPlayback.swift; sourceTree = "<group>"; };
-		25E4C590284A2E4400EE3C75 /* Don't Forget.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Don't Forget.mp3"; sourceTree = "<group>"; };
-		25E4C591284A2E4400EE3C75 /* Autoreverse.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Autoreverse.mp3; sourceTree = "<group>"; };
-		25E4C592284A2E4500EE3C75 /* Gravity.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Gravity.mp3; sourceTree = "<group>"; };
-		25E4C593284A2E4500EE3C75 /* Wildblood.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wildblood.mp3; sourceTree = "<group>"; };
-		25E4C594284A2E4500EE3C75 /* World On Fire.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "World On Fire.mp3"; sourceTree = "<group>"; };
-		25E4C595284A2E4500EE3C75 /* Afterlight.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Afterlight.mp3; sourceTree = "<group>"; };
 		25E4C59D284A444A00EE3C75 /* ViewControllerBooks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerBooks.swift; sourceTree = "<group>"; };
 		25E4C59F284A455900EE3C75 /* CollectionViewCellBooks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCellBooks.swift; sourceTree = "<group>"; };
 		25E4C5A1284A479E00EE3C75 /* ViewControllerBooksPreview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerBooksPreview.swift; sourceTree = "<group>"; };
-		25E4C5A3284A47E300EE3C75 /* His Fortunate Grace.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "His Fortunate Grace.pdf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +124,7 @@
 		2507ABB82849359D009D8400 /* FunZone */ = {
 			isa = PBXGroup;
 			children = (
+				2563E706287CD5A900C638F4 /* resources */,
 				2507ABB92849359D009D8400 /* AppDelegate.swift */,
 				2507ABBB2849359D009D8400 /* SceneDelegate.swift */,
 				2507ABBF2849359D009D8400 /* Main.storyboard */,
@@ -148,44 +147,42 @@
 				25132A5A284E5D6500953DAB /* TableViewCellBooks.swift */,
 				25E4C57B2849D73700EE3C75 /* TableViewCellNotes.swift */,
 				25E4C59F284A455900EE3C75 /* CollectionViewCellBooks.swift */,
-				2507ABDA284968B3009D8400 /* resources */,
 			);
 			path = FunZone;
 			sourceTree = "<group>";
 		};
-		2507ABDA284968B3009D8400 /* resources */ = {
+		2563E706287CD5A900C638F4 /* resources */ = {
 			isa = PBXGroup;
 			children = (
-				25E4C59C284A427600EE3C75 /* pdf */,
-				25E4C583284A2DDB00EE3C75 /* music */,
+				2563E708287CD5B800C638F4 /* pdf */,
+				2563E707287CD5B100C638F4 /* music */,
 			);
 			path = resources;
 			sourceTree = "<group>";
 		};
-		25E4C583284A2DDB00EE3C75 /* music */ = {
+		2563E707287CD5B100C638F4 /* music */ = {
 			isa = PBXGroup;
 			children = (
-				25E4C595284A2E4500EE3C75 /* Afterlight.mp3 */,
-				25E4C591284A2E4400EE3C75 /* Autoreverse.mp3 */,
-				25E4C590284A2E4400EE3C75 /* Don't Forget.mp3 */,
-				25E4C592284A2E4500EE3C75 /* Gravity.mp3 */,
-				25E4C593284A2E4500EE3C75 /* Wildblood.mp3 */,
-				25E4C594284A2E4500EE3C75 /* World On Fire.mp3 */,
+				2563E729287CD7C300C638F4 /* Afterlight.mp3 */,
+				2563E725287CD7C200C638F4 /* Autoreverse.mp3 */,
+				2563E727287CD7C300C638F4 /* Don't Forget.mp3 */,
+				2563E728287CD7C300C638F4 /* Gravity.mp3 */,
+				2563E726287CD7C300C638F4 /* Wildblood.mp3 */,
+				2563E72A287CD7C300C638F4 /* World On Fire.mp3 */,
 			);
 			path = music;
 			sourceTree = "<group>";
 		};
-		25E4C59C284A427600EE3C75 /* pdf */ = {
+		2563E708287CD5B800C638F4 /* pdf */ = {
 			isa = PBXGroup;
 			children = (
-				2595CFBF284C56E600E2C9AA /* Kathie's Soldiers.pdf */,
-				2595CFC2284C56E700E2C9AA /* The Black Eagle.pdf */,
-				2595CFC1284C56E700E2C9AA /* The daily life of G and R.pdf */,
-				2595CFC4284C56E800E2C9AA /* The Incredible Invasion.pdf */,
-				2595CFC5284C56E800E2C9AA /* The Lone Wolf.pdf */,
-				2595CFC0284C56E700E2C9AA /* The Return of the Native.pdf */,
-				2595CFC3284C56E700E2C9AA /* The Second Boys' Book of Model Aeroplanes.pdf */,
-				25E4C5A3284A47E300EE3C75 /* His Fortunate Grace.pdf */,
+				2563E717287CD67E00C638F4 /* Kathie's Soldiers.pdf */,
+				2563E719287CD67F00C638F4 /* The Black Eagle.pdf */,
+				2563E71C287CD67F00C638F4 /* The daily life of G and R.pdf */,
+				2563E71D287CD67F00C638F4 /* The Incredible Invasion.pdf */,
+				2563E71A287CD67F00C638F4 /* The Lone Wolf.pdf */,
+				2563E71B287CD67F00C638F4 /* The Return of the Native.pdf */,
+				2563E718287CD67F00C638F4 /* The Second Boys' Book of Model Aeroplanes.pdf */,
 			);
 			path = pdf;
 			sourceTree = "<group>";
@@ -248,23 +245,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2595CFC9284C56E800E2C9AA /* The daily life of G and R.pdf in Resources */,
-				2595CFCB284C56E800E2C9AA /* The Second Boys' Book of Model Aeroplanes.pdf in Resources */,
+				2563E724287CD67F00C638F4 /* The Incredible Invasion.pdf in Resources */,
+				2563E72B287CD7C300C638F4 /* Autoreverse.mp3 in Resources */,
+				2563E71F287CD67F00C638F4 /* The Second Boys' Book of Model Aeroplanes.pdf in Resources */,
+				2563E72C287CD7C300C638F4 /* Wildblood.mp3 in Resources */,
 				2507ABC92849359E009D8400 /* LaunchScreen.storyboard in Resources */,
-				25E4C596284A2E4500EE3C75 /* Don't Forget.mp3 in Resources */,
-				2595CFC7284C56E800E2C9AA /* Kathie's Soldiers.pdf in Resources */,
-				25E4C59B284A2E4500EE3C75 /* Afterlight.mp3 in Resources */,
-				2595CFC8284C56E800E2C9AA /* The Return of the Native.pdf in Resources */,
-				25E4C59A284A2E4500EE3C75 /* World On Fire.mp3 in Resources */,
-				2595CFCA284C56E800E2C9AA /* The Black Eagle.pdf in Resources */,
-				25E4C597284A2E4500EE3C75 /* Autoreverse.mp3 in Resources */,
+				2563E72E287CD7C300C638F4 /* Gravity.mp3 in Resources */,
+				2563E722287CD67F00C638F4 /* The Return of the Native.pdf in Resources */,
 				2507ABC62849359E009D8400 /* Assets.xcassets in Resources */,
+				2563E723287CD67F00C638F4 /* The daily life of G and R.pdf in Resources */,
+				2563E721287CD67F00C638F4 /* The Lone Wolf.pdf in Resources */,
+				2563E730287CD7C300C638F4 /* World On Fire.mp3 in Resources */,
+				2563E72D287CD7C300C638F4 /* Don't Forget.mp3 in Resources */,
+				2563E71E287CD67F00C638F4 /* Kathie's Soldiers.pdf in Resources */,
 				2507ABC12849359D009D8400 /* Main.storyboard in Resources */,
-				25E4C5A4284A47E300EE3C75 /* His Fortunate Grace.pdf in Resources */,
-				2595CFCC284C56E800E2C9AA /* The Incredible Invasion.pdf in Resources */,
-				25E4C598284A2E4500EE3C75 /* Gravity.mp3 in Resources */,
-				2595CFCD284C56E800E2C9AA /* The Lone Wolf.pdf in Resources */,
-				25E4C599284A2E4500EE3C75 /* Wildblood.mp3 in Resources */,
+				2563E720287CD67F00C638F4 /* The Black Eagle.pdf in Resources */,
+				2563E72F287CD7C300C638F4 /* Afterlight.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -372,7 +368,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -426,7 +422,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -441,6 +437,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = R32QX33ST9;
@@ -458,6 +455,7 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = Xavier.FunZone;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -469,6 +467,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = R32QX33ST9;
@@ -486,6 +485,7 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = Xavier.FunZone;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
